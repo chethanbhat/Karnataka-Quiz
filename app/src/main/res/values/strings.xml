@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Karnataka Quiz App</string>
+    <string name="app_tagline">Test your knowledge about Karnataka</string>
+    <string name="name_request">Enter your name</string>
+    <string name="placeholder">Name</string>
+    <string name="instructions">Please answer following questions</string>
+    <string name="question_1">Q1 - In Karnataka, when is Kannada Rajyotsava (Karnataka Formation Day) celebrated every year?</string>
+    <string name="question_1_choice_1">Nov 2</string>
+    <string name="question_1_choice_2">May 1</string>
+    <string name="question_1_choice_3">Nov 1</string>
+    <string name="question_1_choice_4">Mar 31</string>
+    <string name="question_2">Q2 - Which of the following persons were Deewans of Mysore</string>
+    <string name="question_2_choice_1">Purnaiah</string>
+    <string name="question_2_choice_2">Putappa</string>
+    <string name="question_2_choice_3">Visveswarayya</string>
+    <string name="question_3">Q3 - Which is the capital of Karnatala</string>
+    <string name="question_3_hint">Hint: Silicon Valley</string>
+    <string name="question_4">Q4 - Which of the following places is also known as Dwarasamudra?</string>
+    <string name="question_4_choice_1">Halebidu</string>
+    <string name="question_4_choice_2">Banavasi</string>
+    <string name="question_4_choice_3">Belur</string>
+    <string name="question_4_choice_4">Aihole</string>
+    <string name="question_5">Q5 - Identify this famous building</string>
+    <string name="question_5_content_description">Seat of Government of Karnataka</string>
+    <string name="question_5_hint">Hint: Seat of Government</string>
+    <string name="submit_answers">Submit</string>
+</resources>
