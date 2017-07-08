@@ -24,4 +24,5 @@
     <string name="question_5_content_description">Seat of Government of Karnataka</string>
     <string name="question_5_hint">Hint: Seat of Government</string>
     <string name="submit_answers">Submit</string>
+    <string name="output_string">Hello %1$s, You have scored %2$d marks out of 5"</string>
 </resources>
